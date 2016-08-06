@@ -1,0 +1,56 @@
+_repo: The-Food-of-the-Gods-and-How-It-Came-to-Earth_11696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Food of the Gods and How It Came to Earth is a science fiction novel\
+  \ by H. G. Wells, first published in 1904. Wells called it \"a fantasia on the change\
+  \ of scale in human affairs. . . . I had hit upon [the idea] while working out the\
+  \ possibilities of the near future in a book of speculations called Anticipations\
+  \ (1901).\" There have been various B-movie adaptations. The novel is about a group\
+  \ of scientists who invent a food that accelerates the growth of children and turns\
+  \ them into giants when they become adults.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Contemporary Reviews
+- Science Fiction
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11696'
+  wikidata: Q1215802
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- Experimentation -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Food supply -- Fiction'
+- !lcsh 'Giants -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Growth factors -- Fiction'
+- GITenberg
+title: The Food of the Gods and How It Came to Earth
+url: http://www.gutenberg.org/ebooks/11696
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Nourriture_des_dieux
+- https://ar.wikipedia.org/wiki/%D8%B7%D8%B9%D8%A7%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D9%87%D8%A9_%D9%88%D9%83%D9%8A%D9%81_%D8%A3%D8%AA%D9%89_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6
+- https://nl.wikipedia.org/wiki/Het_voedsel_der_goden_en_hoe_het_op_aarde_kwam
+- https://uk.wikipedia.org/wiki/%D0%87%D0%B6%D0%B0_%D0%B1%D0%BE%D0%B3%D1%96%D0%B2_%D1%96_%D1%8F%D0%BA_%D0%B2%D0%BE%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%B9%D1%88%D0%BB%D0%B0_%D0%BD%D0%B0_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8E
+- https://pt.wikipedia.org/wiki/The_Food_of_the_Gods
+- https://en.wikiquote.org/wiki/The_Food_of_the_Gods_and_How_It_Came_to_Earth
+- https://de.wikipedia.org/wiki/Die_Riesen_kommen!
+- https://es.wikipedia.org/wiki/El_alimento_de_los_dioses
+- https://en.wikipedia.org/wiki/The_Food_of_the_Gods_and_How_It_Came_to_Earth
+- https://pl.wikipedia.org/wiki/Pokarm_bog%C3%B3w
+- https://ru.wikiquote.org/wiki/%D0%9F%D0%B8%D1%89%D0%B0_%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81)
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%89%D0%B0_%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Hrana_zeilor
+- https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%95%D7%9F_%D7%90%D7%9C%D7%99%D7%9D
